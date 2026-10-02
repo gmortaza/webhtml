@@ -1,0 +1,10 @@
+- Full Name
+- Job title
+-Short address
+
+Bio
+social link
+github
+linkdin
+
+copyright
